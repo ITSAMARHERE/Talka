@@ -1,4 +1,3 @@
-Talka
 Talka is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) along with Socket.io for instant messaging. It’s designed to provide a smooth, real-time chatting experience with authentication and scalability in mind.
 
 ✨ Features
